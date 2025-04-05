@@ -1,0 +1,9 @@
+[submodule "microservices/device-management-java"]
+	path = microservices/device-management-java
+	url = https://github.com/WybsonSantana/device-management-java
+[submodule "microservices/temperature-monitoring-java"]
+	path = microservices/temperature-monitoring-java
+	url = https://github.com/WybsonSantana/temperature-monitoring-java
+[submodule "microservices/temperature-processing-java"]
+	path = microservices/temperature-processing-java
+	url = https://github.com/WybsonSantana/temperature-processing-java
